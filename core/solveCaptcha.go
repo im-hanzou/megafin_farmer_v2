@@ -31,7 +31,7 @@ func createTask(client *fasthttp.Client,
 		"task": map[string]interface{}{
 			"soft_id":    "4744",
 			"type":       "TurnstileTaskProxyless",
-			"websiteURL": "https://app.megafin.xyz/",
+			"websiteURL": "https://app.megafin.xyz/upgrade?ref=632a8be0",
 			"websiteKey": "0x4AAAAAAA0SGzxWuGl6kriB",
 			"userAgent":  userAgent,
 		},
